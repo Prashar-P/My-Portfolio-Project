@@ -23,8 +23,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -32,15 +30,25 @@ The following website aims to showcase my own experiences. This project design i
 
 Note: Project is still in development and not available for access publicly.
 
+### Goals of Project
+- Showcase my skills and projects worked on
+- Tailor Portfolio (Add some personality!)
+- Create a prototype that can be continuously worked on
+- Ensure the site is responsive and adaptable.
+
 <!-- Built With -->
 ### Built With
-
 * Javascript
 * CSS
 * React.JS
 * Node.JS
 * AntD
 
+### Features
+- Allow users to download a copy of my resume
+- Allow users to directly view my skills,achievements and projects
+- Allow users to directly contact me
+  
 <!-- Designs -->
 
 ### Designs 
@@ -48,3 +56,9 @@ Note: Project is still in development and not available for access publicly.
 Portfolio Design #1 (Also done in darkmode):
 
 ![image](https://github.com/Prashar-P/My-Portfolio-Project/assets/140114811/65b2eaaa-9a68-402d-8076-2489dfa64893)
+
+### Future Development
+For the next iteration:
+- improve skills page -  currently there is a large amount of text - look into making the experience more interactive
+- Add more personality into the design (Maybe look adding work from hobbies to enhance overall visuals?)
+
